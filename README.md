@@ -43,4 +43,8 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ashritanshuman/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
