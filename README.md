@@ -10,6 +10,7 @@ A collection of LeetCode questions.
 | [0014-longest-common-prefix](https://github.com/ashritanshuman/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0283-move-zeroes](https://github.com/ashritanshuman/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashritanshuman/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +27,20 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashritanshuman/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
