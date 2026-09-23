@@ -8,6 +8,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashritanshuman/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0189-rotate-array](https://github.com/ashritanshuman/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ashritanshuman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashritanshuman/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ashritanshuman/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ashritanshuman/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashritanshuman/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashritanshuman/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/ashritanshuman/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ashritanshuman/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ashritanshuman/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
