@@ -28,6 +28,7 @@ A collection of LeetCode questions.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashritanshuman/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/ashritanshuman/LeetCode/tree/master/0412-fizz-buzz) |
+| [1844-replace-all-digits-with-characters](https://github.com/ashritanshuman/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 ## Trie
 |  |
 | ------- |
