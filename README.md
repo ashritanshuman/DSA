@@ -1,5 +1,6 @@
 # LeetCode GFG & HackerRank Problems with Solutions
-## A collection of LeetCode questions by: ASHRIT ANSHUMAN PRADHAN - BETN1CS25045
+## A collection of LeetCode questions by: 
+### ASHRIT ANSHUMAN PRADHAN - BETN1CS25045
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
