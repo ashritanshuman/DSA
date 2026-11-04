@@ -1,4 +1,4 @@
-# LeetCode GFG & HackerRank Problems with Solutions
+# LeetCode, GFG & HackerRank Problems with Solutions
 ## A collection of LeetCode questions by: 
 ### ASHRIT ANSHUMAN PRADHAN - BETN1CS25045
 
