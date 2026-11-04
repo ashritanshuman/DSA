@@ -1,0 +1,36 @@
+class Solution {
+    public int romanToInt(String s) {
+
+        int result = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            int current = value(s.charAt(i));
+
+            if (i + 1 < s.length() && current < value(s.charAt(i + 1))) {
+                result = result - current;
+            } else {
+                result = result + current;
+            }
+        }
+
+        return result;
+    }
+
+    public int value(char ch) {
+
+        if (ch == 'I') return 1;
+        if (ch == 'V') return 5;
+        if (ch == 'X') return 10;
+        if (ch == 'L') return 50;
+        if (ch == 'C') return 100;
+        if (ch == 'D') return 500;
+        if (ch == 'M') return 1000;
+
+        return 0;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
