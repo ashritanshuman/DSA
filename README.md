@@ -10,6 +10,7 @@
 | [0001-two-sum](https://github.com/ashritanshuman/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashritanshuman/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ashritanshuman/LeetCode/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/ashritanshuman/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ashritanshuman/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ashritanshuman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashritanshuman/LeetCode/tree/master/0283-move-zeroes) |
@@ -78,6 +79,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ashritanshuman/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ashritanshuman/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -92,10 +94,13 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashritanshuman/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashritanshuman/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ashritanshuman/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/ashritanshuman/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashritanshuman/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/ashritanshuman/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
