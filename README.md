@@ -1,5 +1,5 @@
 # LeetCode, GFG & HackerRank Problems with Solutions
-## A collection of LeetCode questions by: 
+## A collection of DSA questions with solutions by: 
 ### ASHRIT ANSHUMAN PRADHAN - BETN1CS25045
 
 <!---LeetCode Topics Start-->
